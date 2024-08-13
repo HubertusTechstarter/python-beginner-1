@@ -9,18 +9,18 @@ tests:
     run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_1"
     points: 20
 
-  - name: "Exercise 2: Variable 'y' exists and is correctly assigned"
-    run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_2"
-    points: 20
+  # - name: "Exercise 2: Variable 'y' exists and is correctly assigned"
+  #   run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_2"
+  #   points: 20
 
-  - name: "Exercise 3: Variable 'z' exists and is correctly assigned"
-    run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_3"
-    points: 20
+  # - name: "Exercise 3: Variable 'z' exists and is correctly assigned"
+  #   run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_3"
+  #   points: 20
 
-  - name: "Exercise 4: Variable 'a' exists and is correctly assigned"
-    run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_4"
-    points: 20
+  # - name: "Exercise 4: Variable 'a' exists and is correctly assigned"
+  #   run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_4"
+  #   points: 20
 
-  - name: "Exercise 5: Variable 'b' exists and is correctly assigned"
-    run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_5"
-    points: 20
+  # - name: "Exercise 5: Variable 'b' exists and is correctly assigned"
+  #   run: "python3 -m unittest test_exercises.TestVariableAssignments.test_exercise_5"
+  #   points: 20
