@@ -2,7 +2,7 @@
 
 # Exercise 1: Declare a variable named 'x' and assign the value 5 to it.
 # Replace the ___ with the correct code.
-x = 5
+# x = 5
 
 # Exercise 2: Declare a variable named 'y' and assign the value 10 to it.
 # Replace the ___ with the correct code.
